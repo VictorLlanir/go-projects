@@ -1,3 +1,3 @@
-module main
+module functions
 
 go 1.19
